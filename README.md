@@ -37,5 +37,5 @@ Afert installation, we need to run this below command in terminal
 
 ### Tech Documention
 ---
-Documention is `under process`
-
+Please refer this for the database and api docs
+https://evening-gorilla-928.notion.site/Kwalee-Tictales-3c3ef38a40014c7e9deb97c72576bf92

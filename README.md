@@ -1,6 +1,6 @@
 # Stories
 ---
-The goal of tictales is to create and share the best stories through an interactive story experience. 
+The goal of stories is to create and share the best stories through an interactive story experience. 
 
 ### Requirements
 ---
@@ -38,4 +38,4 @@ Afert installation, we need to run this below command in terminal
 ### Tech Documention
 ---
 Please refer this for the database and api docs
-https://evening-gorilla-928.notion.site/Kwalee-Tictales-3c3ef38a40014c7e9deb97c72576bf92
+https://evening-gorilla-928.notion.site/Stories-3c3ef38a40014c7e9deb97c72576bf92

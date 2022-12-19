@@ -1,4 +1,4 @@
-# Kwalee - Tictales
+# Stories
 ---
 The goal of tictales is to create and share the best stories through an interactive story experience. 
 

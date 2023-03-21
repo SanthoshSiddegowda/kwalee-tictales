@@ -38,4 +38,4 @@ Afert installation, we need to run this below command in terminal
 ### Tech Documention
 ---
 Please refer this for the database and api docs
-https://evening-gorilla-928.notion.site/Stories-3c3ef38a40014c7e9deb97c72576bf92
+https://santhoshsiddegowda.notion.site/Stories-3c3ef38a40014c7e9deb97c72576bf92

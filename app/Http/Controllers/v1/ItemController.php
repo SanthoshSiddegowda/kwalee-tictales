@@ -16,7 +16,8 @@ class ItemController extends Controller
      */
     public function index()
     {
-        //
+        #this is index page
+        return redirect()->route('home.index');
     }
 
     /**
